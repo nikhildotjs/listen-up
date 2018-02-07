@@ -1,0 +1,29 @@
+.content {
+  display: flex;
+  margin-top: 32px;
+}
+
+.details {
+  margin-right: 32px;
+}
+
+.heading {
+  font-size: 32px;
+  margin-bottom: 16px;
+}
+
+.image {
+  font-size: 126px;
+  border: 1px solid #AAA;
+  padding: 30px;
+  margin-bottom: 16px;
+}
+
+.metrics {
+  display: flex;
+  justify-content: space-between;
+}
+
+.track {
+  margin-bottom: 8px;
+}
